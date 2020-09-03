@@ -7,3 +7,5 @@
 
 Full Name: Asa Chen
 Git Name: Asa-Chen
+Email: ac581218@ohio.edu
+Message: I stored my answers in the answer.md file alongside this file.
