@@ -10,3 +10,4 @@ Git Name: Asa-Chen
 Email: ac581218@ohio.edu
 Message: I stored my answers in the answer.md file alongside this file.
 Class Info: CS2400, Section 107
+Status: DONE
