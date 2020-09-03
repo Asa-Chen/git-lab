@@ -5,10 +5,10 @@
 * @brief: Answer File for Lab 02
 */
 
-//Answer 1
+//Answer 1:
     git version 2.28.0.windows.1
 
-//Answer 2
+//Answer 2:
     diff.astextplain.textconv=astextplain
     filter.lfs.clean=git-lfs clean -- %f
     filter.lfs.smudge=git-lfs smudge -- %f
@@ -24,10 +24,10 @@
     user.name=Asa-Chen
     user.email=ac581218@ohio.edu
 
-//Answer 3
+//Answer 3:
     When "git <command> --help" is typed, a local .html file is opened. Displaying instructions for whatever command you typed in.
 
-//Answer 4
+//Answer 4:
     On branch master
 
 No commits yet
@@ -39,7 +39,7 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
-//Answer 5
+//Answer 5:
     On branch master
 
 No commits yet
@@ -52,7 +52,7 @@ Untracked files:
   (use "git add <file>..." to include in what will be committed)
         answers.md
 
-//Answer 6
+//Answer 6:
     On branch master
 
 No commits yet
@@ -62,27 +62,27 @@ Changes to be committed:
         new file:   README.md
         new file:   answers.md
 
-//Answer 7
+//Answer 7:
     On branch master
 nothing to commit, working tree clean
 
-//Answer 8
+//Answer 8:
     commit 9c12e66aa14fd2c7fc1fe0496598896dd1ee2fd6 (HEAD -> master)
 Author: Asa-Chen <ac581218@ohio.edu>
 Date:   Thu Sep 3 16:02:04 2020 -0400
 
     Initial commit
 
-//Answer 9
+//Answer 9:
     On branch master
 Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
 
-//Answer 10 
+//Answer 10: 
     Local changes were not observed after commiting changes on git-hub
 
-//Answer 11
+//Answer 11:
     To https://github.com/Asa-Chen/git-lab.git
  ! [rejected]        master -> master (fetch first)
 error: failed to push some refs to 'https://github.com/Asa-Chen/git-lab.git'
@@ -92,10 +92,10 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
-//Answer 12
+//Answer 12:
     Local changes reflected online changes once the "git pull" command was initiated.
 
-//Answer 13
+//Answer 13:
     Get-ChildItem : Parameter cannot be processed because the parameter name 'a' is ambiguous. Possible matches
 include: -Attributes -Directory -File -Hidden -ReadOnly -System.
 At line:1 char:4
